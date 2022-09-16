@@ -1,0 +1,15 @@
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\bin\Debug\net6.0\InterfacePractice.exe
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\bin\Debug\net6.0\InterfacePractice.deps.json
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\bin\Debug\net6.0\InterfacePractice.runtimeconfig.json
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\bin\Debug\net6.0\InterfacePractice.dll
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\bin\Debug\net6.0\InterfacePractice.pdb
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\InterfacePractice.csproj.AssemblyReference.cache
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\InterfacePractice.AssemblyInfo.cs
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\InterfacePractice.dll
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\refint\InterfacePractice.dll
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\InterfacePractice.pdb
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\InterfacePractice.genruntimeconfig.cache
+C:\Users\vamsi\RiderProjects\InterfacePractice\InterfacePractice\obj\Debug\net6.0\ref\InterfacePractice.dll
